@@ -13,7 +13,7 @@
 <a href="https://arxiv.org/abs/2601.18225">
   <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Arxiv Badge">
 </a>
-<a href="[xxx](https://huggingface.co/datasets/wpei/ShopSimulator)">
+<a href="https://huggingface.co/datasets/wpei/ShopSimulator">
   <img src="https://img.shields.io/badge/Hugging%20Face-ShopSimulator-yellow" alt="Hugging Face">
 </a>
 <a href="https://github.com/ShopAgent-Team/ShopSimulator">
