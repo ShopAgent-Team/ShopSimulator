@@ -14,7 +14,7 @@ DEFAULT_MODEL_NAME = "qwen3-235b-a22b-instruct-2507"
 DEFAULT_SOURCE = "openai"
 IDEALAB_DEFAULT_KEY = "{your_api_key}"  # Should be set via config file or environment variable
 IDEALAB_DEFAULT_BASE_URL = "{your_base_url}"  # Should be set via config file or environment variable
-DEFAULT_DATA_FILE = "../ShopEnv/data/items_eval_train_all.json"
+DEFAULT_DATA_FILE = "../ShopEnv/data/fine_items_eval_train_all.json"
 FAILED_CALL_MESSAGE = "failed call"
 
 # 系统提示词

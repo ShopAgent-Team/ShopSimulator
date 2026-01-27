@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="xxx">
+<a href="https://arxiv.org/abs/2601.18225">
   <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Arxiv Badge">
 </a>
 <a href="xxx">
