@@ -160,3 +160,18 @@ Once your evaluation completes, let's see how your agent performed:
 python get_score.py
 ```
 
+## Citation
+
+Feel free to cite us if you like our work.
+
+```bibtex
+@misc{wang2026shopsimulatorevaluatingexploringrldriven,
+      title={ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants}, 
+      author={Pei Wang and Yanan Wu and Xiaoshuai Song and Weixun Wang and Gengru Chen and Zhongwen Li and Kezhong Yan and Ken Deng and Qi Liu and Shuaibing Zhao and Shaopan Xiong and Xuepeng Liu and Xuefeng Chen and Wanxi Deng and Wenbo Su and Bo Zheng},
+      year={2026},
+      eprint={2601.18225},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.18225}, 
+}
+
