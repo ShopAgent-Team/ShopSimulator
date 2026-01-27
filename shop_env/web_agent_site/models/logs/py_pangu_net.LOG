@@ -1,0 +1,26 @@
+[2025-08-06 15:44:38.257203]	[WARNING]	[2894264]	[common2/network/rpc_client.cpp:1198]disable rdma in rpc client!
+[2025-08-06 15:44:38.257879]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1638]	Start:Starting RpcClient
+[2025-08-06 15:44:38.257914]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:0	to DSCP value:0
+[2025-08-06 15:44:38.257917]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:1	to DSCP value:8
+[2025-08-06 15:44:38.257918]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:2	to DSCP value:0
+[2025-08-06 15:44:38.257919]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:3	to DSCP value:10
+[2025-08-06 15:44:38.257920]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:4	to DSCP value:0
+[2025-08-06 15:44:38.257922]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:5	to DSCP value:0
+[2025-08-06 15:44:38.257923]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:6	to DSCP value:0
+[2025-08-06 15:44:38.257924]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:7	to DSCP value:0
+[2025-08-06 15:44:38.258637]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1693]	Start:RpcClient is started
+[2025-08-06 15:44:38.272195]	[WARNING]	[2894264]	[common2/network/rpc_client.cpp:1198]disable rdma in rpc client!
+[2025-08-06 15:44:38.272706]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1638]	Start:Starting RpcClient
+[2025-08-06 15:44:38.272712]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:0	to DSCP value:0
+[2025-08-06 15:44:38.272714]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:1	to DSCP value:8
+[2025-08-06 15:44:38.272716]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:2	to DSCP value:0
+[2025-08-06 15:44:38.272717]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:3	to DSCP value:10
+[2025-08-06 15:44:38.272718]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:4	to DSCP value:0
+[2025-08-06 15:44:38.272719]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:5	to DSCP value:0
+[2025-08-06 15:44:38.272720]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:6	to DSCP value:0
+[2025-08-06 15:44:38.272721]	[WARNING]	[2894264]	[common2/network/rpc_controller.cpp:63]	Mapping priority:7	to DSCP value:0
+[2025-08-06 15:44:38.273366]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1693]	Start:RpcClient is started
+[2025-08-06 15:52:40.309365]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1700]	Stop:Stopping RpcClient
+[2025-08-06 15:52:40.311936]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1735]	Stop:RpcClient is stopped
+[2025-08-06 15:52:40.316468]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1700]	Stop:Stopping RpcClient
+[2025-08-06 15:52:40.319061]	[INFO]	[2894264]	[common2/network/rpc_client.cpp:1735]	Stop:RpcClient is stopped
