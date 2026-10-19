@@ -26,6 +26,14 @@
 <img src="assets/env_intro.jpg" alt="Main Figure" style="margin-top: 60px;" />  
 <br>
 
+
+## 📰 News
+
+- **[2026.07]** 🎉 ShopSimulator has been adapted by the community into the popular project [shopping-grpo-longhorizon](https://github.com/YYHDBL/shopping-grpo-longhorizon), widely studied and tried by the community.
+- **[2026.04]** 🎊 Our paper has been accepted by **ACL 2026 (Main Conference)**&#8203;!
+- **[2026.01]** 🚀 We release ShopSimulator: a large-scale and challenging Chinese shopping environment for evaluating and training RL-driven LLM shopping agents. [Paper](https://arxiv.org/abs/2601.18225) | [Dataset](https://huggingface.co/datasets/wpei/ShopSimulator)
+
+
 ## 🎯 Abstract
 
 Large language model (LLM)‑based agents are increasingly deployed in e‑commerce shopping. 
