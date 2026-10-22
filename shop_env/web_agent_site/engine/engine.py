@@ -109,8 +109,7 @@ def parse_action(action):
     """
     Parse action string to action name and its arguments.
     """
-    pattern = re.compile(r'(.+)\[(.+)\]')
-    m = re.match(pattern, action)
+    m = re.fullmatch(r'([a-zA-Z_][a-zA-Z0-9_]*)\[(.*)\]', action, flags=re.DOTALL)
     if m is None:
         action_name = action
         action_arg = None
